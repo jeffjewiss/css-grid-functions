@@ -1,0 +1,20 @@
+{
+  "name": "css-grid-functions",
+  "version": "0.0.0",
+  "description": "Functional CSS classes to help working with CSS grid.",
+  "style": "css/css-grid-functions.min.css",
+  "main": "css/css-grid-functions.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffjewiss/css-grid-functions.git"
+  },
+  "author": "Jeff <jeff@jeffjewiss.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffjewiss/css-grid-functions/issues"
+  },
+  "homepage": "https://github.com/jeffjewiss/css-grid-functions#readme"
+}
